@@ -1,0 +1,316 @@
+.mediaViewInfo {
+	--web-view-name: Home1;
+	--web-view-id: Home1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home1 {
+	position: absolute;
+	background: #E5E5E5;
+	width: 1903px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Home1;
+	--web-view-id: Home1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Image_6 {
+	position: absolute;
+	width: 1902px;
+	height: 1189px;
+	left: 1px;
+	top: -92px;
+	overflow: visible;
+}
+#NoPath {
+	position: absolute;
+	width: 271px;
+	height: 271px;
+	left: 32px;
+	top: 33px;
+	overflow: visible;
+}
+#HILL_STREET_CAFE {
+	position: absolute;
+	left: 478px;
+	top: 33px;
+	overflow: visible;
+	width: 1240px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cambria;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 150px;
+	color: rgba(0,0,0,1);
+}
+.Line_9 {
+	overflow: visible;
+	position: absolute;
+	width: 1287px;
+	height: 3px;
+	left: 469.5px;
+	top: 209.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#_BREAKFAST__LUNCH__DINNER {
+	position: absolute;
+	left: 503px;
+	top: 218px;
+	overflow: visible;
+	width: 1158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cambria;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 85px;
+	color: rgba(0,0,0,1);
+}
+#Home {
+	position: absolute;
+	left: 60px;
+	top: 363px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Menu {
+	position: absolute;
+	left: 60px;
+	top: 482px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Contact_Us {
+	position: absolute;
+	left: 60px;
+	top: 601px;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#E_Club {
+	position: absolute;
+	left: 60px;
+	top: 720px;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Image_1 {
+	position: absolute;
+	width: 170px;
+	height: 68px;
+	left: 60px;
+	top: 839px;
+	overflow: visible;
+}
+#NoPath___Copy__3_ {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 61px;
+	top: 919px;
+	overflow: visible;
+}
+#NoPath___Copy__4_ {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 107px;
+	top: 919px;
+	overflow: visible;
+}
+#NoPath___Copy__5_ {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 153px;
+	top: 919px;
+	overflow: visible;
+}
+#NoPath___Copy__9_ {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 199px;
+	top: 919px;
+	overflow: visible;
+}
+#Home_Cooking_Away_From_Home {
+	position: absolute;
+	left: 602px;
+	top: 350px;
+	overflow: visible;
+	width: 961px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(0,0,0,1);
+}
+#Food_Gallery {
+	position: absolute;
+	left: 1017px;
+	top: 468px;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1539px;
+	height: 1px;
+	left: 312.5px;
+	top: 519.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#TBA_WRAP {
+	position: absolute;
+	left: 535px;
+	top: 787px;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Mask_Group_11 {
+	position: absolute;
+	width: 369px;
+	height: 246px;
+	left: 418px;
+	top: 528px;
+	overflow: visible;
+}
+#THE_CLASSIC_BURGER {
+	position: absolute;
+	left: 993px;
+	top: 787px;
+	overflow: visible;
+	width: 242px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#CAESAR_SALAD {
+	position: absolute;
+	left: 1539px;
+	top: 789px;
+	overflow: visible;
+	width: 172px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Image_2 {
+	position: absolute;
+	width: 369px;
+	height: 246px;
+	left: 929px;
+	top: 528px;
+	overflow: visible;
+}
+#Mask_Group_12 {
+	position: absolute;
+	width: 369px;
+	height: 246px;
+	left: 1440px;
+	top: 528px;
+	overflow: visible;
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	width: 1539px;
+	height: 1px;
+	left: 327.5px;
+	top: 892.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#About_Us {
+	position: absolute;
+	left: 1082px;
+	top: 841px;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Our_name_may_be__Hill_Street_C {
+	position: absolute;
+	left: 426px;
+	top: 912px;
+	overflow: hidden;
+	width: 1377px;
+	height: 300px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}

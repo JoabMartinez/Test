@@ -1,0 +1,413 @@
+.mediaViewInfo {
+	--web-view-name: Club1;
+	--web-view-id: Club1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Club1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Club1 {
+	position: absolute;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 999px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Club1;
+	--web-view-id: Club1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Image_6 {
+	position: absolute;
+	width: 1920px;
+	height: 1200px;
+	left: 0px;
+	top: -134px;
+	overflow: visible;
+}
+#NoPath {
+	position: absolute;
+	width: 271px;
+	height: 271px;
+	left: 32px;
+	top: 33px;
+	overflow: visible;
+}
+#Home {
+	position: absolute;
+	left: 60px;
+	top: 363px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Menu {
+	position: absolute;
+	left: 60px;
+	top: 482px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Contact_Us {
+	position: absolute;
+	left: 60px;
+	top: 601px;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#E_Club {
+	position: absolute;
+	left: 60px;
+	top: 720px;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Image_1 {
+	position: absolute;
+	width: 170px;
+	height: 68px;
+	left: 60px;
+	top: 839px;
+	overflow: visible;
+}
+#NoPath___Copy__3_ {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 61px;
+	top: 919px;
+	overflow: visible;
+}
+#NoPath___Copy__4_ {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 107px;
+	top: 919px;
+	overflow: visible;
+}
+#NoPath___Copy__5_ {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 153px;
+	top: 919px;
+	overflow: visible;
+}
+#NoPath___Copy__9_ {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 199px;
+	top: 919px;
+	overflow: visible;
+}
+#Join_Our_E_Club___It_s_Free_ {
+	position: absolute;
+	left: 596px;
+	top: 63px;
+	overflow: visible;
+	width: 924px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_50 {
+	position: absolute;
+	width: 1372px;
+	height: 444px;
+	left: 411px;
+	top: 365px;
+	background-color: rgba(255,255,255,1);
+	border:  1px solid rgba(112,112,112,1);
+	overflow: hidden;
+}
+#Rectangle_53 {
+	position: absolute;
+	width: 1299px;
+	height: 52px;
+	left: 440px;
+	top: 443px;
+	background-color: rgba(255,255,255,1);
+	border:  1px solid rgba(112,112,112,1);
+	overflow: hidden;
+}
+#Enter_E_Mail_Address__ {
+	position: absolute;
+	left: 440px;
+	top: 397px;
+	overflow: visible;
+	width: 247px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(68,66,66,1);
+}
+#Rectangle_54 {
+	position: absolute;
+	width: 364px;
+	height: 52px;
+	left: 440px;
+	top: 554px;
+	background-color: rgba(255,255,255,1);
+	border:  1px solid rgba(112,112,112,1);
+	overflow: hidden;
+}
+#First_Name__ {
+	position: absolute;
+	left: 440px;
+	top: 515px;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(68,66,66,1);
+}
+#Date_of_Birth__ {
+	position: absolute;
+	left: 440px;
+	top: 647px;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(68,66,66,1);
+}
+#Last_Name__ {
+	position: absolute;
+	left: 889px;
+	top: 515px;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(68,66,66,1);
+}
+#Rectangle_57 {
+	position: absolute;
+	width: 364px;
+	height: 52px;
+	left: 889px;
+	top: 554px;
+	background-color: rgba(255,255,255,1);
+	border:  1px solid rgba(112,112,112,1);
+	overflow: hidden;
+}
+#Rectangle_58 {
+	position: absolute;
+	width: 195px;
+	height: 52px;
+	left: 440px;
+	top: 693px;
+	background-color: rgba(255,255,255,1);
+	border:  1px solid rgba(112,112,112,1);
+	overflow: hidden;
+}
+#Month__ {
+	position: absolute;
+	left: 455px;
+	top: 703px;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(87,87,87,1);
+}
+#Rectangle_59 {
+	position: absolute;
+	width: 59px;
+	height: 51px;
+	left: 576px;
+	top: 694px;
+	background-color: rgba(59,59,59,1);
+	border:  1px solid rgba(112,112,112,1);
+	overflow: hidden;
+}
+.Polygon_1 {
+	overflow: visible;
+	position: absolute;
+	width: 21px;
+	height: 18px;
+	transform: matrix(1,0,0,1,595,711) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_60 {
+	position: absolute;
+	width: 195px;
+	height: 52px;
+	left: 686px;
+	top: 693px;
+	background-color: rgba(255,255,255,1);
+	border:  1px solid rgba(112,112,112,1);
+	overflow: hidden;
+}
+#Day__ {
+	position: absolute;
+	left: 701px;
+	top: 703px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(87,87,87,1);
+}
+#Rectangle_61 {
+	position: absolute;
+	width: 59px;
+	height: 51px;
+	left: 821px;
+	top: 694px;
+	background-color: rgba(59,59,59,1);
+	border:  1px solid rgba(112,112,112,1);
+	overflow: hidden;
+}
+.Polygon_2 {
+	overflow: visible;
+	position: absolute;
+	width: 21px;
+	height: 18px;
+	transform: matrix(1,0,0,1,840,711) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_62 {
+	position: absolute;
+	width: 195px;
+	height: 52px;
+	left: 931px;
+	top: 693px;
+	background-color: rgba(255,255,255,1);
+	border:  1px solid rgba(112,112,112,1);
+	overflow: hidden;
+}
+#Year__ {
+	position: absolute;
+	left: 946px;
+	top: 703px;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(87,87,87,1);
+}
+#Rectangle_63 {
+	position: absolute;
+	width: 59px;
+	height: 51px;
+	left: 1067px;
+	top: 694px;
+	background-color: rgba(59,59,59,1);
+	border: 0;
+	overflow: hidden;
+}
+.Polygon_3 {
+	overflow: visible;
+	position: absolute;
+	width: 21px;
+	height: 18px;
+	transform: matrix(1,0,0,1,1086,711) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#As_a_member_of_Hill_Street_Caf {
+	position: absolute;
+	left: 411px;
+	top: 220px;
+	overflow: visible;
+	width: 1473px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+.Line_12 {
+	overflow: visible;
+	position: absolute;
+	width: 228px;
+	height: 1px;
+	left: 348.5px;
+	top: 126.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_14 {
+	overflow: visible;
+	position: absolute;
+	width: 228px;
+	height: 1px;
+	left: 1564.5px;
+	top: 126.5px;
+	transform: matrix(1,0,0,1,0,0);
+}

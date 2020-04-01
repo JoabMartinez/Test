@@ -1,0 +1,358 @@
+.mediaViewInfo {
+	--web-view-name: Contact1;
+	--web-view-id: Contact1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Contact1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Contact1 {
+	position: absolute;
+	background: #E5E5E5;
+	width: 1903px;
+	height: 1625px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Contact1;
+	--web-view-id: Contact1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Image_6 {
+	position: absolute;
+	width: 2601px;
+	height: 1625px;
+	left: -402px;
+	top: 0px;
+	overflow: visible;
+}
+#NoPath {
+	position: absolute;
+	width: 271px;
+	height: 271px;
+	left: 32px;
+	top: 33px;
+	overflow: visible;
+}
+#Contact_Us {
+	position: absolute;
+	left: 891px;
+	top: 56px;
+	overflow: visible;
+	width: 385px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(0,0,0,1);
+}
+.Line_12 {
+	overflow: visible;
+	position: absolute;
+	width: 510px;
+	height: 1px;
+	left: 337.5px;
+	top: 116.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 589px;
+	height: 1px;
+	left: 1302.5px;
+	top: 116.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Home {
+	position: absolute;
+	left: 60px;
+	top: 363px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Menu {
+	position: absolute;
+	left: 60px;
+	top: 482px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Contact_Us_Bar {
+	position: absolute;
+	left: 60px;
+	top: 601px;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#E_Club {
+	position: absolute;
+	left: 60px;
+	top: 720px;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_50 {
+	position: absolute;
+	width: 1372px;
+	height: 537px;
+	left: 397px;
+	top: 213px;
+	background-color: rgba(255,255,255,1);
+	border:  1px solid rgba(112,112,112,1);
+	overflow: hidden;
+}
+#We_d_love_to_hear_from_you_ {
+	position: absolute;
+	left: 898px;
+	top: 234px;
+	overflow: visible;
+	width: 371px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_53 {
+	position: absolute;
+	width: 1299px;
+	height: 52px;
+	left: 426px;
+	top: 325px;
+	background-color: rgba(255,255,255,1);
+	border:  1px solid rgba(112,112,112,1);
+	overflow: hidden;
+}
+#Name__ {
+	position: absolute;
+	left: 426px;
+	top: 289px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(68,66,66,1);
+}
+#Rectangle_54 {
+	position: absolute;
+	width: 1299px;
+	height: 52px;
+	left: 426px;
+	top: 428px;
+	background-color: rgba(255,255,255,1);
+	border:  1px solid rgba(112,112,112,1);
+	overflow: hidden;
+}
+#E_mail_Address__ {
+	position: absolute;
+	left: 426px;
+	top: 392px;
+	overflow: visible;
+	width: 183px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(68,66,66,1);
+}
+#Rectangle_55 {
+	position: absolute;
+	width: 1299px;
+	height: 189px;
+	left: 426px;
+	top: 531px;
+	background-color: rgba(255,255,255,1);
+	border:  1px solid rgba(112,112,112,1);
+	overflow: hidden;
+}
+#Message__ {
+	position: absolute;
+	left: 426px;
+	top: 495px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(68,66,66,1);
+}
+#Image_24 {
+	position: absolute;
+	width: 691px;
+	height: 506px;
+	left: 392px;
+	top: 864px;
+	overflow: visible;
+}
+#ID3301_N_Glenoaks_Blvd__Burban {
+	position: absolute;
+	left: 1165px;
+	top: 840px;
+	overflow: visible;
+	width: 649px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Directions {
+	position: absolute;
+	left: 984px;
+	top: 771px;
+	overflow: visible;
+	width: 200px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+#Rectangle_56 {
+	position: absolute;
+	width: 422px;
+	height: 79px;
+	left: 1278px;
+	top: 925px;
+	background-color: rgba(66,133,244,1);
+	border:  1px solid rgba(112,112,112,1);
+	overflow: visible;
+}
+#Google_Maps {
+	position: absolute;
+	left: 1365px;
+	top: 937px;
+	overflow: visible;
+	width: 249px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Mon___7_00_AM___9_00_PM_Tue___ {
+	position: absolute;
+	left: 1297px;
+	top: 1041px;
+	overflow: visible;
+	width: 385px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#If_you_are_interested_in_filmi {
+	position: absolute;
+	left: 565px;
+	top: 1421px;
+	overflow: visible;
+	width: 1023px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Image_1 {
+	position: absolute;
+	width: 170px;
+	height: 68px;
+	left: 60px;
+	top: 839px;
+	overflow: visible;
+}
+#NoPath___Copy__3_ {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 61px;
+	top: 919px;
+	overflow: visible;
+}
+#NoPath___Copy__4_ {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 107px;
+	top: 919px;
+	overflow: visible;
+}
+#NoPath___Copy__5_ {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 153px;
+	top: 919px;
+	overflow: visible;
+}
+#NoPath___Copy__9_ {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 199px;
+	top: 919px;
+	overflow: visible;
+}
